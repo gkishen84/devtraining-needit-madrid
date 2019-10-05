@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="sys_import_set_row" label="needit_stagging" max_length="40" name="x_58872_needit_needit_stagging" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="4&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#16;&#0;&#0;þÿÿÿ&#0;&#0;&#0;&#0;þÿÿÿ&#0;&#0;&#0;&#0;3&#0;&#0;&#0;ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ" max_length="40" name="u_4____________ÿÿÿÿÿÿÿÿÿÿÿÿÿÿ" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Must have by" label="Must have by" max_length="40" name="u_must_have_by" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Requested For" label="Requested For" max_length="40" name="u_requested_for" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Request Type" label="Request Type" max_length="40" name="u_request_type" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Short Descriptino" label="Short Descriptino" max_length="40" name="u_short_descriptino" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="T8Í&#7;ÁÀ&#1;&#0;&#6;&#7;&#0;&#0;á&#0;&#2;&#0;°&#4;Á&#0;&#2;&#0;&#0;&#0;â&#0;&#0;&#0;\&#0;p&#0;&#6;&#0;&#0;Lenovo                                       " max_length="40" name="u_t8í_áà_______h___6_________" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=What Needed" label="What Needed" max_length="40" name="u_what_needed" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ÐÏ&#17;à¡±&#26;á&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&#0;&gt;&#0;&#3;&#0;þÿ" max_length="40" name="u_ðï_à___á_________________þÿ" type="string"/>
     </element>
 </database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_t8í_áà_______h___6_________" label="T8Í&#7;ÁÀ&#1;&#0;&#6;&#7;&#0;&#0;á&#0;&#2;&#0;°&#4;Á&#0;&#2;&#0;&#0;&#0;â&#0;&#0;&#0;\&#0;p&#0;&#6;&#0;&#0;Lenovo                                       " language="en" table="x_58872_needit_needit_stagging">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_t8í_áà_______h___6_________</element>
+            <help/>
+            <hint/>
+            <label>T8ÍÁÀá°Áâ\pLenovo                                       </label>
+            <language>en</language>
+            <name>x_58872_needit_needit_stagging</name>
+            <plural>T8ÍÁÀá°Áâ\pLenovo                                       </plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-05 05:21:34</sys_created_on>
+            <sys_id>f48f9b6ddb1000100a462706ca961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>T8ÍÁÀá°Áâ\pLenovo                                                                                                       B°aÀ=œ¯¼=6Ä8X@�"·Ú</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_needit_stagging_u_t8í_áà_______h___6__________en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-05 05:21:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
